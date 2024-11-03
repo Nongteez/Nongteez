@@ -5,7 +5,7 @@
 
 </h1>
 
-<h3 align="center">Personal Information</h3>
+<h2 align="center">Personal Information</h2>
 
 <br/>
 
