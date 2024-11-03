@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I am a student at Suranaree University of Technology, Thailand.**
+ 🔭 **I am a student at Suranaree University of Technology, Thailand.**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
