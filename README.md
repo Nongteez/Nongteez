@@ -36,7 +36,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,cpp,java,wordpress" /></br>
@@ -44,7 +44,7 @@
 
 </div>
 
-<h2 align="center">⚒️ Skill ⚒️</h2>
+<h2 align="center">🤖 Orther 🤖</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
