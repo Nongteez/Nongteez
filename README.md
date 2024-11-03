@@ -1,8 +1,7 @@
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE4B2B&lines=Hi+Everyone!+👋;+I'm+Paty+Security+Analyst!;" />
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=red&lines=Hi+Everyone!+;+I'm+Paty+Security+Analyst!" />
-<img src="https://media.giphy.com/media/xUOwGgXS4kl12HkAHS/giphy.gif" alt="waving hand" width="50" />
+
 
 </h1>
 
