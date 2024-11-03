@@ -11,13 +11,13 @@
 
 <div align="center">
  
- 🔭 **I am a student at Suranaree University of Technology, Thailand.**
+ ⚡ **I am a student at Suranaree University of Technology, Thailand.**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ ⚡ **Digital Arts and Sciences Division, Digital Technology Program**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+⚡ **Career Path > Security Analyst**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
  
