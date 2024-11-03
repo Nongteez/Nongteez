@@ -66,21 +66,27 @@
 <hr/>
 
 ..
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE4B2B&lines=Hi+Everyone!+👋;+I'm+Paty,+a+Security+Analyst!;" />
 </h1>
 
-<h3 align="center">👤 Personal Information</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Security%20Analyst-red?style=for-the-badge" alt="Security Analyst Badge" />
+    <img src="https://img.shields.io/badge/University-SUT-1E90FF?style=for-the-badge" alt="Suranaree University of Technology Badge" />
+</div>
 
 <br/>
 
+<h3 align="center">👤 Personal Information</h3>
+
 <div align="center">
  
- ⚡ **I study at Suranaree University of Technology, Thailand. 🎓**
+ ⚡ **Studying at Suranaree University of Technology, Thailand 🎓**
  
- ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
+ ⚡ **Division of Digital Arts and Sciences, Digital Technology Program 💻**
 
-⚡ **Career Path > Security Analyst 🔒** 
+ ⚡ **Career Path: Security Analyst 🔒** 
 
 </div>
 
@@ -115,12 +121,11 @@
 <hr/>
 
 <div align="center">
-    <h2>🐍 Thank you for viewing my profile 🐍</h2>
+    <h2>🐍 Thank You for Visiting My Profile 🐍</h2>
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation eating contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
 </div>
-
 <hr/>
 
 
