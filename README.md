@@ -11,11 +11,11 @@
 
 <div align="center">
  
- ⚡ **I am a student at Suranaree University of Technology, Thailand.**
+ ⚡ **I am a student at Suranaree University of Technology, Thailand. 🎓**
  
- ⚡ **Digital Arts and Sciences Division, Digital Technology Program**
+ ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
 
-⚡ **Career Path > Security Analyst**
+⚡ **Career Path > Security Analyst 🔒** 
 
 
 
