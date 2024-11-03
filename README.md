@@ -47,7 +47,7 @@
 <h2 align="center">⚒️ Skill ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma,discord," /><br>
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
 </div>
 
 
