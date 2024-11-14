@@ -44,7 +44,7 @@
 
 </div>
 
-<h2 align="center">👽 Orther 👽</h2>
+<h2 align="center">👽 Other 👽</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
