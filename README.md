@@ -40,7 +40,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,wordpress" /></br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,eclipse,firebase,github,kali,ubuntu,vscode," /></br>
+    <img src="https://skillicons.dev/icons?i=docker,eclipse,firebase,github,kali,ubuntu,vscode," /></br>
 
 </div>
 
