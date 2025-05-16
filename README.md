@@ -39,7 +39,7 @@
 <h2 align="center">⚔️ Languages Frameworks Tools ⚔️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,cpp,java,wordpress" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,wordpress" /></br>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,eclipse,firebase,github,kali,ubuntu,vscode," /></br>
 
 </div>
