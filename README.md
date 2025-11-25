@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE4B2B&lines=Hi+Everyone!+👋;+I'm+Paty+penetration tester!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE4B2B&lines=Hi+Everyone!+👋;+I'm+Paty+Penetration tester!;" />
 
 
 </h1>
@@ -15,7 +15,7 @@
  
  ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
 
-⚡ **Career Path > penetration tester 🔒** 
+⚡ **Career Path > Penetration Tester 🔒** 
 
 
 
