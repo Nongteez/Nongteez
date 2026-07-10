@@ -12,7 +12,7 @@
 <div align="center">
  <br/>
  <br/>
- ⚡ **Career Path > Penetration Tester 🔒** 
+ ⚡ Career Path > Penetration Tester 🔒 
 <br/>
 <br/>
 
