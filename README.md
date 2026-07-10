@@ -10,20 +10,22 @@
 <br/>
 
 <div align="center">
- 
+ <br/>
+ <br/>
  ⚡ **Career Path > Penetration Tester 🔒** 
-
+<br/>
+<br/>
 
 
  </div>
 
 
 <div align="center"> 
- <a href="https://www.linkedin.com/in/settapon-choedphutsa" target="_blank">
+ <a href="x" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
   <a href="mailto:settapon.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+    <img src="x" alt="Gmail" />
 </a>
 
 
