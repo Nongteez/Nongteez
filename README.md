@@ -11,11 +11,7 @@
 
 <div align="center">
  
- ⚡ **I study at Suranaree University of Technology, Thailand. 🎓**
- 
- ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
-
-⚡ **Career Path > Penetration Tester 🔒** 
+ ⚡ **Career Path > Penetration Tester 🔒** 
 
 
 
