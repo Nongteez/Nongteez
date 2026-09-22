@@ -18,7 +18,7 @@
 
 </div>
 
-<h2 align="center"> Other </h2>
+<h4 align="center"> Other </h4>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
