@@ -5,12 +5,12 @@
 
 </h1>
 
-<h4 align="center">Penetration Tester</h4>
+<h3 align="center">Penetration Tester</h3>
 <div align="center">
 </div>
 
  
-<h3 align="center">Languages Frameworks Tools</h3>
+<h4 align="center">Languages Frameworks Tools</h4>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,wordpress" /></br>
