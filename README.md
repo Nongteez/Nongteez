@@ -7,12 +7,9 @@
 
 <h3 align="center">Personal Information</h3>
 <div align="center">
-  Career Path > Penetration Tester  
+  Career Path >Penetration Tester  
 <br/>
 <br/>
-
-
-
 </div>
 
  
