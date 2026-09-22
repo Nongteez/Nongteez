@@ -5,14 +5,14 @@
 
 </h1>
 
-<h3 align="center">👾Personal Information</h3>
+<h3 align="center">Personal Information</h3>
 
 <br/>
 
 <div align="center">
  <br/>
  <br/>
- ⚡ Career Path > Penetration Tester 🔒 
+  Career Path > Penetration Tester  
 <br/>
 <br/>
 
@@ -38,7 +38,7 @@
 
 </div>
 
-<h2 align="center">👽 Other 👽</h2>
+<h2 align="center"> Other </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
@@ -50,7 +50,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🎀 THX 🎀</h2>
+  <h2> THX </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
