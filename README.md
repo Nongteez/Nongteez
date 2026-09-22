@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <h2> THX </h2>
+  <h4> Thank You </h4>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/>
