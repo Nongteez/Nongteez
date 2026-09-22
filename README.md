@@ -34,9 +34,6 @@
 
 
 
-
-<hr/>
-
 <div align="center">
   <h2> THX </h2>
   <br>
@@ -46,6 +43,4 @@
 </div>
 
 <hr/>
-
-
 
