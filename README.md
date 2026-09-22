@@ -15,10 +15,8 @@
 
 </div>
 
-
- <hr/>
  
-<h2 align="center">⚔️ Languages Frameworks Tools ⚔️</h2>
+<h2 align="center">Languages Frameworks Tools</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,wordpress" /></br>
