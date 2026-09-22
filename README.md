@@ -6,12 +6,7 @@
 </h1>
 
 <h3 align="center">Personal Information</h3>
-
-<br/>
-
 <div align="center">
- <br/>
- <br/>
   Career Path > Penetration Tester  
 <br/>
 <br/>
